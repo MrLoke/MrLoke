@@ -1,4 +1,3 @@
-#### About me:
 * Front end passionate 😎
 * React.js enthusiast 😍
 <!--
