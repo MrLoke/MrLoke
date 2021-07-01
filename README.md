@@ -1,4 +1,4 @@
-![gif](https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif)
+![gif](https://i.pinimg.com/originals/5d/c3/50/5dc350fb8ef7a2c3dbdb1e3d4bc44083.gif)
 
 * Front end passionate 😎
 * React.js enthusiast 😍
