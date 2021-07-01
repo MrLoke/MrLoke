@@ -1,5 +1,3 @@
-![gif](https://i.pinimg.com/originals/5d/c3/50/5dc350fb8ef7a2c3dbdb1e3d4bc44083.gif)
-
 * Front end passionate 😎
 * React.js enthusiast 😍
 <!--
